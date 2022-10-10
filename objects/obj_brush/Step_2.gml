@@ -1,0 +1,1 @@
+button_script(obj_brush, stt_brush.off, stt_brush.on, button.brush)

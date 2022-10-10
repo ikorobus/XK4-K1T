@@ -1,0 +1,1 @@
+//button_script(obj_exit, stt_exit.off, stt_exit.on, button.exit)
